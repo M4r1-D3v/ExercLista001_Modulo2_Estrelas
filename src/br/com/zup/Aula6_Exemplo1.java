@@ -12,7 +12,8 @@ public class Aula6_Exemplo1 {
 
        //Printando de forma concatenada as variáveis
 
-        System.out.print("Olá, meu nome é " + nomeDoUsuario);
+        System.out.println("Olá, meu nome é " + nomeDoUsuario);
+        System.out.print("A minha idade é " + idadeDoUsuario);
 
 
     }
